@@ -1,6 +1,6 @@
 # Panic Button
 
-<img src="https://github.com/erdalkama/SOSMaui/assets/34250103/e20f892b-6dd1-4d41-bc71-5f2a71d4263c" height="300">
+<img src="https://github.com/erdalkama/SOSMaui/assets/34250103/e20f892b-6dd1-4d41-bc71-5f2a71d4263c" height="800">
 
 Panic Button allows you to quickly make an emergency call for help. With this simple app, you can send an SMS to a contact and share your location instantly.
 
