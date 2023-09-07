@@ -29,7 +29,7 @@ The application requires the following permissions to function properly:
 
 ## Notes
 
-This application has been developed using Xamarin.Forms. Please be cautious when entering the contact phone number and use it only for emergencies.
+This application has been developed using .Net Maui. Please be cautious when entering the contact phone number and use it only for emergencies.
 
 ## Setting Permissions
 
