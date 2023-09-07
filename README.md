@@ -25,7 +25,7 @@ The application requires the following permissions to function properly:
 
 ## Screenshots
 
-![panic3](https://github.com/erdalkama/SOSMaui/assets/34250103/629b3fb6-ce49-4591-a78a-c396e1193733)
+<img src="https://github.com/erdalkama/SOSMaui/assets/34250103/629b3fb6-ce49-4591-a78a-c396e1193733" height="600">
 
 ## Notes
 
