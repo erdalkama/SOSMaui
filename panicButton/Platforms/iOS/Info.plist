@@ -28,5 +28,11 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
+	<key>NSMessagesUsageDescription</key>
+	<string>Uygulama içinde SMS gönderme yetkisi için izin verin.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Konumunuzu her zaman kullanabilir miyiz?</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Panik sistemini kullanmak için izin vermeniz gerekmektedir</string>
 </dict>
 </plist>
